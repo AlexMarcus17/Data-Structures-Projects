@@ -1,0 +1,3 @@
+/Users/User/CLionProjects/proj3ds/cmake-build-debug/CMakeFiles/proj3ds.dir
+/Users/User/CLionProjects/proj3ds/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/User/CLionProjects/proj3ds/cmake-build-debug/CMakeFiles/rebuild_cache.dir

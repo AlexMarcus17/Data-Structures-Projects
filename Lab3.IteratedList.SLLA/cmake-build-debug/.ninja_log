@@ -1,0 +1,18 @@
+# ninja log v5
+0	34	1713364305713833495	build.ninja	11565d210cc90f42
+4	276	1712825643945257800	CMakeFiles/proj3ds.dir/ShortTest.cpp.o	4cd7be30b4b64fc6
+4	519	1712907291849854911	CMakeFiles/proj3ds.dir/App.cpp.o	bade248d56be7db4
+4	273	1712907323872020039	CMakeFiles/proj3ds.dir/ExtendedTest.cpp.o	17cb1d33e4b2b3d8
+4	211	1712907296695530366	CMakeFiles/proj3ds.dir/IteratedList.cpp.o	a290b662bac96fe9
+4	271	1712767600829893126	CMakeFiles/proj3ds.dir/ListIterator.cpp.o	4ab425cd40571ea7
+274	304	1712907323902821690	proj3ds	7c8a0dfd1ebf30ce
+5	692	1713943631087660810	CMakeFiles/proj3ds.dir/IteratedList.cpp.o	a290b662bac96fe9
+692	855	1713943631251466765	proj3ds	7c8a0dfd1ebf30ce
+6	554	1713943958758449730	CMakeFiles/proj3ds.dir/ShortTest.cpp.o	4cd7be30b4b64fc6
+5	555	1713943958759028929	CMakeFiles/proj3ds.dir/IteratedList.cpp.o	a290b662bac96fe9
+5	555	1713943958758445522	CMakeFiles/proj3ds.dir/ListIterator.cpp.o	4ab425cd40571ea7
+5	561	1713943958767455757	CMakeFiles/proj3ds.dir/ExtendedTest.cpp.o	17cb1d33e4b2b3d8
+561	721	1713943958928373882	proj3ds	7c8a0dfd1ebf30ce
+4	487	1713944893958216379	CMakeFiles/proj3ds.dir/IteratedList.cpp.o	a290b662bac96fe9
+4	488	1713944893957281060	CMakeFiles/proj3ds.dir/ListIterator.cpp.o	4ab425cd40571ea7
+488	632	1713944894104165111	proj3ds	7c8a0dfd1ebf30ce

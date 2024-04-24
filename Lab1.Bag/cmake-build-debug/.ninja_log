@@ -1,0 +1,8 @@
+# ninja log v5
+0	44	1711540470524024885	build.ninja	84232aaf64dd23a4
+5	285	1711529799778293100	CMakeFiles/proj1ds.dir/ShortTest.cpp.o	d20d365ac7c4d94c
+4	285	1711529799778290726	CMakeFiles/proj1ds.dir/BagIterator.cpp.o	7460a63a9e726c3a
+5	269	1711531435767010906	CMakeFiles/proj1ds.dir/Bag.cpp.o	3881ff3856a1de3f
+3	489	1711529799982748921	CMakeFiles/proj1ds.dir/App.cpp.o	cda27c7490d51a5a
+4	536	1711529800028555851	CMakeFiles/proj1ds.dir/ExtendedTest.cpp.o	eacf2f9cfd525087
+269	303	1711531435800934552	proj1ds	acd632872e56df99

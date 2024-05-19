@@ -1,0 +1,3 @@
+/Users/User/Programming/Data Structures Projects/Lab4.SortedBag.Hashtable/cmake-build-debug/CMakeFiles/Lab4.dir
+/Users/User/Programming/Data Structures Projects/Lab4.SortedBag.Hashtable/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/User/Programming/Data Structures Projects/Lab4.SortedBag.Hashtable/cmake-build-debug/CMakeFiles/rebuild_cache.dir

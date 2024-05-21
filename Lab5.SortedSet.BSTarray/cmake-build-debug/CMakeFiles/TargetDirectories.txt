@@ -1,0 +1,3 @@
+/Users/User/Programming/Data Structures Projects/Lab5.SortedSet.BSTarray/cmake-build-debug/CMakeFiles/Lab5_SortedSet_BSTarray.dir
+/Users/User/Programming/Data Structures Projects/Lab5.SortedSet.BSTarray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/User/Programming/Data Structures Projects/Lab5.SortedSet.BSTarray/cmake-build-debug/CMakeFiles/rebuild_cache.dir

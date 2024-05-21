@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab5_SortedSet_BSTarray",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab5_SortedSet_BSTarray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab5_SortedSet_BSTarray-Debug-ce957de78c097496778e.json",
+					"name" : "Lab5_SortedSet_BSTarray",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/User/Programming/Data Structures Projects/Lab5.SortedSet.BSTarray/cmake-build-debug",
+		"source" : "/Users/User/Programming/Data Structures Projects/Lab5.SortedSet.BSTarray"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

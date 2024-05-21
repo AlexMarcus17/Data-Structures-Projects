@@ -1,0 +1,8 @@
+# ninja log v5
+0	45	1716206114114823336	build.ninja	d007a5c541d4a82c
+4	31	1716203371776968944	CMakeFiles/Lab5_SortedSet_BSTarray.dir/SortedSet.cpp.o	f00077daecb44974
+6	162	1716203036588446285	CMakeFiles/Lab5_SortedSet_BSTarray.dir/SortedSetIterator.cpp.o	d57a9344fe39b0ac
+5	150	1716203036576373297	CMakeFiles/Lab5_SortedSet_BSTarray.dir/ShortTest.cpp.o	b870238d248ea6dc
+5	324	1716203400519301407	CMakeFiles/Lab5_SortedSet_BSTarray.dir/ExtendedTest.cpp.o	e4f344161d7a083b
+4	413	1716203036838487219	CMakeFiles/Lab5_SortedSet_BSTarray.dir/App.cpp.o	197b669591afa03c
+324	353	1716203400550218089	Lab5_SortedSet_BSTarray	e2f20041440c65e4
